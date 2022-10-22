@@ -22,9 +22,36 @@
   Before you start with the tutorial make sure you have
 
   - [Node.js](https://nodejs.org/en/) v16.9.0 or greater installed on your machine ([NVM](https://github.com/coreybutler/nvm-windows) is a great tool for installing Node packages in Windows)
-  - Medusa fully set up
+  - Medusa fully set up (along with Medusa CLI)
 
   ### Cloning and executing the code
+1. Clone the repo
+```
+git clone https://github.com/Narayan1670/PetMart
+```
+2. If you have the tools required in [Prerequisites](#prerequisites), you will be able to execute the entire application using the following:
+```
+-> Backend
+cd my-medusa-store/backend
+# Install dependencies
+yarn install
+# Start the app
+yarn start
+
+-> Admin
+cd my-medusa-store/admin
+# Install dependencies
+yarn install
+# Start the app
+yarn start
+
+-> Storefront
+cd my-medusa-store/storefront
+# Install dependencies
+yarn install
+# Start the app
+yarn start
+```
 
 ## Resources
 - [Medusa’s GitHub repository](https://github.com/medusajs/medusa)
