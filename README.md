@@ -1,4 +1,5 @@
 # Petmart
+  ![Header](media/screenshots/galaxy-cover-template#1.jpg)
   ![HomePage](media/gifs/homepage.gif)
 
 ## About
