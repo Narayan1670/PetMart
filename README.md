@@ -1,4 +1,5 @@
 # Petmart
+  A Pet shop made using Medusa framework and Next.js storefront
   ![Header](media/screenshots/galaxy-cover-template%231.jpg)
   ![HomePage](media/gifs/homepage.gif)
 
