@@ -1,8 +1,7 @@
 # Petmart
   A Pet shop made using Medusa framework and Next.js storefront
-  ![Header](media/screenshots/galaxy-cover-template%231.jpg)
   
-  ![HomePage](media/gifs/homepage.gif)
+  ![Header](media/screenshots/galaxy-cover-template%231.jpg)
 
 ## About
   ### Participants
@@ -19,6 +18,8 @@
   
   ### Project Preview
 #### Gifs
+![HomePage](media/gifs/homepage.gif)
+
 ![AddFoodToCart](media/gifs/catfood.gif)
 
 ![Checkout](media/gifs/checkout.gif)
